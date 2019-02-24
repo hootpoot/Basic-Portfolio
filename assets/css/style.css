@@ -1,0 +1,265 @@
+* {
+    margin: 0;
+
+}
+
+body {
+    
+    background-repeat: repeat;
+    background-image: url('../images/back_pattern.png');
+}
+
+header {
+    background-color: #ffffff;
+    border-bottom: 1px solid #cccccc;
+    padding-bottom: px;
+
+}
+
+.container {
+
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #ffffff;
+    margin-top: 0 auto;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    width: 960px;
+    align-items: center;
+
+}
+
+.name {
+    background-color: #4aaaa5;
+    padding: 17px 20px;
+    color: #ffffff;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+
+.nav {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+
+}
+
+.nav a {
+    margin-left: 40px;
+    color: grey;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(73, 73, 73);
+}
+
+.box {
+    background-color: #ffffff;
+    width: 960px;
+    border: 1px solid #dddddd;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+}
+
+.box h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-bottom: 2px solid #dddddd;
+    padding: 10px;
+    padding-bottom: 25px;
+    margin: 20px;
+    color: #4aaaa5
+}
+
+.box img {
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 200px;
+    width: 200px;
+    float: left;
+}
+
+.box p {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: grey;
+    line-height: 150%;
+    margin: 0 20px 20px 20px;
+}
+
+footer {
+    background-color: #666666;
+    padding: 35px 20px 10px 20px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    border-top: 10px solid #4aaaa5;
+}
+
+footer p {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: rgb(182, 182, 182);
+    font-size: 75%;
+    
+}
+
+.box form {
+    padding-top: 0px;
+    
+}
+
+.box form p {
+    margin-bottom: 0px;
+    padding: 0px;
+}
+
+.box input {
+    margin: 10px 20px 10px 20px;
+    width: 920px;
+    line-height: 200%;
+}
+
+textarea {
+    margin: 10px 20px 10px 20px;
+    width: 920px;
+}
+
+
+#submit {
+    width: 100px;
+    padding: 10px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    background-color: #4aaaa5;
+    border: none;
+    color: #ffffff;
+    border: 1px solid #4aaaa5;
+}
+
+#submit:hover {
+    background-color: #ffffff;
+    color: #4aaaa5;
+}
+
+.projects {
+    background-color: #fff;
+    
+    width: 700px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px auto;
+    justify-content: space-around;
+    
+}
+
+
+    
+.projcont1  {
+    height: 250px;
+    width: 250px;
+    background-image: url("../images/cats-q-c-250-250-10.jpg");
+    display: flex;
+    align-items: flex-end;
+    margin: 20px 20px 35px 20px;
+    
+}
+
+.projcont1 p {
+    color: #fff;
+    background-color: #4aaaa5;
+    width: 100%;
+    margin: 0px 0px 10px 0px;
+    text-align: center;
+    padding: 15px;
+    
+}
+
+.projcont2 {
+    height: 250px;
+    width: 250px;
+    background-image: url("../images/cats-q-c-250-250-2.jpg");
+    display: flex;
+    align-items: flex-end;
+    margin: 20px 20px 35px 20px;
+}
+
+.projcont2 p {
+    color: #fff;
+    background-color: #4aaaa5;
+    width: 100%;
+    margin: 0px 0px 10px 0px;
+    text-align: center;
+    padding: 15px;
+}
+
+.projcont3 {
+    height: 250px;
+    width: 250px;
+    background-image: url("../images/cats-q-c-250-250-3.jpg");
+    display: flex;
+    align-items: flex-end;
+    margin: 20px 20px 35px 20px;
+}
+
+.projcont3 p {
+    color: #fff;
+    background-color: #4aaaa5;
+    width: 100%;
+    margin: 0px 0px 10px 0px;
+    text-align: center;
+    padding: 15px;
+}
+
+.projcont4 {
+    height: 250px;
+    width: 250px;
+    background-image: url("../images/cats-q-c-250-250-5.jpg");
+    display: flex;
+    align-items: flex-end;
+    margin: 20px 20px 35px 20px;
+}
+
+.projcont4 p {
+    color: #fff;
+    background-color: #4aaaa5;
+    width: 100%;
+    margin: 0px 0px 10px 0px;
+    text-align: center;
+    padding: 15px;
+}
+
+.projcont5 {
+    height: 250px;
+    width: 250px;
+    background-image: url("../images/cats-q-c-250-250-8.jpg");
+    display: flex;
+    align-items: flex-end;
+    margin: 20px 20px 35px 20px;
+}
+
+.projcont5 p {
+    color: #fff;
+    background-color: #4aaaa5;
+    width: 100%;
+    margin: 0px 0px 10px 0px;
+    text-align: center;
+    padding: 15px;
+}
+
+.projcont6 {
+    height: 250px;
+    width: 250px;
+    background-image: url();
+    display: flex;
+    align-items: flex-end;
+    margin: 20px 20px 35px 20px;
+}
+
+.projcont6 p {
+    color: #fff;
+    background-color: #4aaaa5;
+    width: 100%;
+    margin: 0px 0px 10px 0px;
+    text-align: center;
+    padding: 15px;
+}
