@@ -171,7 +171,8 @@ textarea {
     margin: 0px 0px 10px 0px;
     text-align: center;
     padding: 15px;
-    
+    text-decoration: underline; 
+    text-decoration-color: #4aaaa5;
 }
 
 .projcont2 {
@@ -190,6 +191,8 @@ textarea {
     margin: 0px 0px 10px 0px;
     text-align: center;
     padding: 15px;
+    text-decoration: underline; 
+    text-decoration-color: #4aaaa5;
 }
 
 .projcont3 {
@@ -208,6 +211,8 @@ textarea {
     margin: 0px 0px 10px 0px;
     text-align: center;
     padding: 15px;
+    text-decoration: underline; 
+    text-decoration-color: #4aaaa5;
 }
 
 .projcont4 {
@@ -226,6 +231,8 @@ textarea {
     margin: 0px 0px 10px 0px;
     text-align: center;
     padding: 15px;
+    text-decoration: underline; 
+    text-decoration-color: #4aaaa5;
 }
 
 .projcont5 {
@@ -244,6 +251,8 @@ textarea {
     margin: 0px 0px 10px 0px;
     text-align: center;
     padding: 15px;
+    text-decoration: underline; 
+    text-decoration-color: #4aaaa5;
 }
 
 .projcont6 {
